@@ -53,7 +53,7 @@ Three integrators of increasing order are implemented and compared:
 
 ```
 .
-└── 30561_Calda_Reali_Ricci.ipynb   # Full simulation, analysis, and write-up
+└── 30561_stochastic_processes_project.ipynb   # Full simulation, analysis, and write-up
 ```
 
 The notebook is organized into the following sections:
